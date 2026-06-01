@@ -1,0 +1,14 @@
+mini-project-dsai-ml-regression/
+│
+├── notebooks/
+│   └── notebook.ipynb
+├── data/ regression_data.csv
+│     └── PROCESSED_DATA
+│		└── house_prices_cleaned.csv
+├── sql/ house_price_regression.sql               
+├── tableau/Book1.twbx & Book1.twb             
+└── README.md
+└── project_details_regression.md
+└── sql_questions_regression.md 
+└── tableau_regression.md
+└── Project_Structure.txt
